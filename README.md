@@ -5,7 +5,7 @@
 
  -->
 
-## Current Stats
+## Current Stats -
 
 <br />
 <p align="center">
@@ -15,13 +15,18 @@
 <br/>
 <br/>
 
-[![Overall](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibrahman&theme=gruvbox)](https://git.io/streak-stats)
+<!-- [![Overall](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibrahman&theme=gruvbox)](https://git.io/streak-stats) -->
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibrahman&theme=gruvbox" />
+</p>
 
-## Language
+<br/>
+
+## Language Stats -
 
 <br />
 <p align="center">
-  <img width="60%" src="https://api.githubtrends.io/user/svg/akibrahman/repos?time_range=one_year&theme=dark" />
+  <img  src="https://api.githubtrends.io/user/svg/akibrahman/repos?time_range=one_year&theme=dark" />
 </p>
 
 <br/>
