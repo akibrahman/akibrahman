@@ -5,6 +5,10 @@
 
  -->
 
+ <a href="https://www.facebook.com/akibrahmann">
+<img width='100%' src="https://raw.githubusercontent.com/akibrahman/akibrahman/main/assets/banner.gif" />
+</a>
+
 ## Current Stats -
 
 <br />
