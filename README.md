@@ -1,22 +1,30 @@
-# Test
+<!-- # Test
 
-<div  style="display:flex; align-items:center;">
+[![Languages](https://api.githubtrends.io/user/svg/akibrahman/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 
-<!-- [![Languages](https://api.githubtrends.io/user/svg/akibrahman/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 
-[![Status](https://github-readme-streak-stats.herokuapp.com?user=akibrahman&theme=dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+ -->
 
-<img style='width:40%;' src='https://api.githubtrends.io/user/svg/akibrahman/langs?time_range=one_year&theme=dark' />
+## Current Stats
 
-<img style='width:60%;' src='https://github-readme-streak-stats.herokuapp.com?user=akibrahman&theme=dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D' />
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=akibrahman&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-</div>
-
-<br/>
 <br/>
 <br/>
 
 [![Overall](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibrahman&theme=gruvbox)](https://git.io/streak-stats)
+
+## Language
+
+<br />
+<p align="center">
+  <img width="60%" src="https://api.githubtrends.io/user/svg/akibrahman/repos?time_range=one_year&theme=dark" />
+</p>
+
+<br/>
 
 <!-- <img src='https://github-readme-streak-stats.herokuapp.com?user=akibrahman&theme=dark&border_radius=5.2&date_format=j%20M%5B%20Y%5D' width='100%' />
 <br/>
