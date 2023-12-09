@@ -77,6 +77,8 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibrahman&theme=gruvbox" />
 </p>
 
+<br>
+
 ## 📖 Github Summary
 
 <div align="center" width='100%'>
@@ -99,3 +101,81 @@
 <br/>
 
 ## 💎 Projects
+
+### University Meal Management System
+
+- **Description:** I have named it `MealMaster` and this one is my most great project. This project basically can manage the hostel meal system for the students. A package system for properly managing the meal system
+
+- ## **Features:**
+- General user can `like` and `comment` on a meal and this data will be stored `user wise`
+- User can purchase a package by `Stripe` payment
+<!-- - User can `Request` for a meal -->
+- User can see his/her `Reviews` and `Requested` meals from his/her Dashboard
+- User can `Edit` his/her Review
+- User can `Cancle` his/her Requested meal if it is `Pending`
+- An Admin can make any User to `Admin`
+- Admin can `Delete` a meal and that meal's data will be deleted from `user's data` also if that meal was `liked` by him/her
+- Admin can `Add a Meal`
+- Admin can `Updify & Delete` a Meal
+- Admin can Delete any `Review`
+- Admin can make a requested meal `Delivered from Pending` by `Serving` the meal
+- Admin can Review all the `Payments`
+- Without and `Admin-Role` nobody can access both `Server-Side` or `Client-Side` Routes
+- `Infinity Scrolling` on Meals Page
+  <br>
+- ## Special Implimentation
+
+<br>
+
+- Implemented the `About Me` section on the User’s My Profile Page
+- Implemented `React-Awesome-Button` & `React-Select`
+- Implemented `React-Modal`
+- Implemented `Axios Interceptor`
+
+- ## Technologies:
+<img src="https://skillicons.dev/icons?i=react,express,nodejs,mongo,javascript,tailwind" />
+
+## [Live Site Link](https://mealmaster-akib.web.app)
+
+- [Client Site Repo.](https://github.com/akibrahman/meal-master-akib)
+- [Server Site Repo.](https://github.com/akibrahman/meal-master-server)
+<br>
+<br>
+<br>
+<hr>
+
+### Job Hunting Website
+
+- **Description:**
+
+- ## **Features:**
+  -
+  -
+  -
+
+## [Live Site Link](https://jobnest-akib.web.app)
+
+- [Client Site Repo.](https://github.com/akibrahman/job-nest-akib)
+- [Server Site Repo.](https://github.com/akibrahman/job-nest-server-akib)
+
+<br>
+<br>
+<br>
+<hr>
+
+### Cloth Brand Shop
+
+- **Description:**
+
+- ## **Features:**
+
+  -
+  -
+  -
+
+- ## Technologies:
+
+## [Live Site Link](https://brand-shop-akib.web.app)
+
+- [Client Site Repo.](https://github.com/akibrahman/brand-shop-obsidian)
+- [Server Site Repo.](https://github.com/akibrahman/brand-shop-obsidian-server)
