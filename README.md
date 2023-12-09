@@ -102,7 +102,9 @@
 
 ## 💎 Projects
 
-<p align="center" style="font-size: 28px;font-weight:bold; color:#FFC700;">University Meal Management System</p>
+## `University Meal Management System`
+
+<br>
 
 - **Description:** I have named it `MealMaster` and this one is my most great project. This project basically can manage the hostel meal system for the students. A package system for properly managing the meal system
 
@@ -143,9 +145,11 @@
 <br>
 <hr>
 
-<p align="center" style="font-size: 28px;font-weight:bold; color:#FFC700;">Job Hunting Website</p>
+## `Job Hunting Website`
 
-- **Description:**`JobNest` is a job searching website where you can easily add a job, also you can apply a job. This system is now under construction again because I am updating this site and going to implement `Admin Panel` system
+<br>
+
+- **Description:** `JobNest` is a job searching website where you can easily add a job, also you can apply a job. This system is now under construction again because I am updating this site and going to implement `Admin Panel` system
 
 - ## **Features:**
 - You can login by `Google`
@@ -161,9 +165,6 @@
   <br>
 
 - ## Special Implimentation
-
-<!-- - Implemented the `About Me` section on the User’s My Profile Page -->
-
 - Implemented `Framer Motion`
 - Implemented `Axios Interceptor`
 - Implemented `Json Web Token`
@@ -182,17 +183,28 @@
 <br>
 <hr>
 
-### Cloth Brand Shop
+## `Brand Shop`
 
-- **Description:**
+<br>
+
+- **Description:** I named this Project `Obsidian`. This is a brand shop website. After Authentication, You can Add a product, Edit and even Add to Cart. This was my first project with BackEnd. Within Some Days, I will re-modify this project and i will make this project more Dynamic
 
 - ## **Features:**
 
-  -
-  -
-  -
+- Entire website is fully `responsive`
+- Authentication through `E-mail_Password`, `Google` & `Github`
+- 'Add Product', 'Update Product', 'Product Details' & 'My Cart' routes are `Private`, that means you cann't access these routes without `Authentication`
+- You can Add a `product` under any `brand`
+- In every product, there is a `Edit` button. Clicking that button you can `update` that specific product
+- In 'Details Page' there is a `'Add to Cart'` button, clicking that you can `store` that product in your cart
+- In the `'Cart'` section, you can see all that products which you have Added to cart
+- In Cart, there is a `delete` button with each product, Clicking that you can delete that product from your Cart
+- Every kind of action will be `notified` by either 'Toast' or 'Sweet Alert'
+- Delete operation has a `Confirming Sweet Alert` to confirm your Deletion
+- Full website is connected with `MongoDB`
 
 - ## Technologies:
+<img src="https://skillicons.dev/icons?i=react,express,mongo,javascript,tailwind" />
 
 ## [Live Site Link](https://brand-shop-akib.web.app)
 
