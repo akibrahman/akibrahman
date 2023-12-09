@@ -29,33 +29,33 @@
 ## 🖨️ Technologies I Know
 
  <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=javascript" />
   </a>
-   <a href="#">
+   <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
-    <a href="#">
+    <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
   <br>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=express" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=mongo" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
   <br>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
 </p>
