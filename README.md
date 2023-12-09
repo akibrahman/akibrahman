@@ -4,6 +4,12 @@
 </a>
  <p/>
 
+## Current Status
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=akibrahman&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=fff&fire=FFC700&sideLabels=FFC700&currStreakNum=FFC700&ring=FFC700&currStreakLabel=00F0FF&sideNums=fff" />
+</p>
+
 ## Skills
 
  <p align="center">
@@ -41,14 +47,8 @@
 <h3 align="center">-- Contact with Me --</h3> <br/>
 <p  align="center">
 <a href="https://www.linkedin.com/in/md-akib-rahman" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
-<a href="mailto:akibrahman5200@gmail.com" target="blank"><img align="center" src="" alt="" height="30" width="40" /></a>
+<a href="mailto:akibrahman5200@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/akibrahman/akibrahman/main/assets/gmail.png" alt="" height="30" width="40" /></a>
 
-</p>
-
-## Current Status
-
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=akibrahman&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=fff&fire=FFC700&sideLabels=FFC700&currStreakNum=FFC700&ring=FFC700&currStreakLabel=00F0FF&sideNums=fff" />
 </p>
 
 <!-- <br/> -->
