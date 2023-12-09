@@ -102,7 +102,7 @@
 
 ## 💎 Projects
 
-### University Meal Management System
+<p align="center" style="font-size: 28px;font-weight:bold; color:#FFC700;">University Meal Management System</p>
 
 - **Description:** I have named it `MealMaster` and this one is my most great project. This project basically can manage the hostel meal system for the students. A package system for properly managing the meal system
 
@@ -125,12 +125,11 @@
   <br>
 - ## Special Implimentation
 
-<br>
-
+- Implemented `Json Web Token`
+- Implemented `Axios Interceptor`
 - Implemented the `About Me` section on the User’s My Profile Page
 - Implemented `React-Awesome-Button` & `React-Select`
 - Implemented `React-Modal`
-- Implemented `Axios Interceptor`
 
 - ## Technologies:
 <img src="https://skillicons.dev/icons?i=react,express,nodejs,mongo,javascript,tailwind" />
@@ -144,14 +143,34 @@
 <br>
 <hr>
 
-### Job Hunting Website
+<p align="center" style="font-size: 28px;font-weight:bold; color:#FFC700;">Job Hunting Website</p>
 
-- **Description:**
+- **Description:**`JobNest` is a job searching website where you can easily add a job, also you can apply a job. This system is now under construction again because I am updating this site and going to implement `Admin Panel` system
 
 - ## **Features:**
-  -
-  -
-  -
+- You can login by `Google`
+- Just select the `Photo`, No need of Photo URL
+- You can `Create a Job` Post
+- You can `Edit & Delete` your created Job Post
+- You can `visit & edit` you profile
+- you will be `notified by a E-mail` after applying a Job
+- You can `download the PDF` of your Applied Job
+- You can see your `posted job` and `applied job` Separately
+- You will be `notified` if the `deadline` is over or you are the creator of that post when applying.
+
+  <br>
+
+- ## Special Implimentation
+
+<!-- - Implemented the `About Me` section on the User’s My Profile Page -->
+
+- Implemented `Framer Motion`
+- Implemented `Axios Interceptor`
+- Implemented `Json Web Token`
+- Implemented `React-PDF` & `Email JS`
+
+- ## Technologies:
+<img src="https://skillicons.dev/icons?i=react,express,nodejs,mongo,javascript,tailwind" />
 
 ## [Live Site Link](https://jobnest-akib.web.app)
 
