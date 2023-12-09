@@ -42,9 +42,9 @@
 
 <div align="center" width='100%'>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akibrahman&theme=dark" width="50%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akibrahman&theme=dark" width="400"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akibrahman&theme=dark" width="50%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akibrahman&theme=dark" width="400"/>
 
 </div>
 
