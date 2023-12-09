@@ -102,7 +102,7 @@
 
 ## 💎 Projects
 
-## `University Meal Management System`
+## `🍽️ University Meal Management System`
 
 <br>
 
@@ -145,7 +145,7 @@
 <br>
 <hr>
 
-## `Job Hunting Website`
+## `🏢 Job Hunting Website`
 
 <br>
 
@@ -183,7 +183,7 @@
 <br>
 <hr>
 
-## `Brand Shop`
+## `🛍️ Brand Shop`
 
 <br>
 
