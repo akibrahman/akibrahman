@@ -4,13 +4,29 @@
 </a>
  <p/>
 
-## Current Status
+ <br>
+
+## 👋 Hey It's me
+
+### 📜 Studying - @IUBAT-CSE
+
+### 💼 Looking Forward - To be hired as a MERN stack Developer.
+
+### 🔭 Currently Exploring - Next JS
+
+### ⚡ Interested To - Try anything NEW
+
+<!-- ### 🌱 I’m exploring - Advance motion graphics for web.  -->
+<!-- ### 🤔 I’m trying - To help people learn web development.  -->
+<br>
+
+## 🧮 Current Statistics
 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=akibrahman&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=fff&fire=FFC700&sideLabels=FFC700&currStreakNum=FFC700&ring=FFC700&currStreakLabel=00F0FF&sideNums=fff" />
 </p>
 
-## Skills
+## 🖨️ Technologies I Know
 
  <p align="center">
   <a href="#">
@@ -44,21 +60,24 @@
   </a>
 </p>
 
-<h3 align="center">-- Contact with Me --</h3> <br/>
+## ☎️ Contact with Me
+
 <p  align="center">
-<a href="https://www.linkedin.com/in/md-akib-rahman" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="30" width="40" /></a>
-<a href="mailto:akibrahman5200@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/akibrahman/akibrahman/main/assets/gmail.png" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-akib-rahman" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="" height="50" width="60" /></a>
+<a href="mailto:akibrahman5200@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/akibrahman/akibrahman/main/assets/gmail.png" alt="" height="50" width="60" /></a>
 
 </p>
 
-<!-- <br/> -->
+<br/>
+
+## 🧊 Overall Statistics
 
 <!-- [![Overall](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibrahman&theme=gruvbox)](https://git.io/streak-stats) -->
 <p align="center">
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akibrahman&theme=gruvbox" />
 </p>
 
-## 📚Github Summary
+## 📖 Github Summary
 
 <div align="center" width='100%'>
 
@@ -70,7 +89,7 @@
 
 <br/>
 
-## Language Status
+## 💡 JavaScript Status
 
 <br />
 <p align="center">
@@ -78,3 +97,5 @@
 </p>
 
 <br/>
+
+## 💎 Projects
