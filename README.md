@@ -30,10 +30,16 @@
 
  <p align="center">
   <a href="https://www.linkedin.com/in/md-akib-rahman">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
   <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
    <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=tailwind" />
@@ -53,6 +59,9 @@
   </a>
   <a href="https://www.linkedin.com/in/md-akib-rahman">
     <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-akib-rahman">
+    <img src="./assets/mongoose.png" width='50' />
   </a>
   <br>
   <a href="https://www.linkedin.com/in/md-akib-rahman">
@@ -152,6 +161,11 @@
 - **Description:** `JobNest` is a job searching website where you can easily add a job, also you can apply a job. This system is now under construction again because I am updating this site and going to implement `Admin Panel` system
 
 - ## **Features:**
+- Three layer of Authorization `Admin` - `Host` - `General`
+- `Admin` can manage everything
+- `Host` can add job and review his/her added jobs
+- `Admin` can Change anyone's `Role`
+- `Geleral` user can make request to Admin to be the Host
 - You can login by `Google`
 - Just select the `Photo`, No need of Photo URL
 - You can `Create a Job` Post
